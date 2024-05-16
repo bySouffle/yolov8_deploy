@@ -1,0 +1,10 @@
+//
+// Created by souffle on 24-4-26.
+//
+
+#ifndef YOLOV8_DEPLOY_MODEL_FLAG_HEADER_H_
+#define YOLOV8_DEPLOY_MODEL_FLAG_HEADER_H_
+
+#define USE_CUDA 01
+
+#endif //YOLOV8_DEPLOY_MODEL_FLAG_HEADER_H_
